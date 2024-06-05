@@ -16,7 +16,7 @@ their historical data.
 
 ### Task
 
-Toanalyzed AtliQ Grands’ performance over the past 3 months, identifying revenue trends and key factors. 
+To analyze AtliQ Grands’ performance over the past 3 months, identifying revenue trends and key factors. 
 The goal is to provide actionable insights for revenue management decisions so that it can regain its market share and revenue.
 
 ### Data 
