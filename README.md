@@ -104,7 +104,7 @@ Filters for city ,roomtype,month and week has beeen used.
 * ADR for the rooms ,can be changed to dynamic so that we can have maximum revenue generations.
 * Even the Weekend and Weekday Price we can change the pricing, that is for friday and saturday
   we can increase the pricing charged per room.
-* Occupancy and ratings of four htels are below 50 and 3 respectively.There Service need to be checked and
+* Occupancy and ratings of four hotels are below 50 and 3 respectively.There Service need to be checked and
   need to find why they are performing less.
 * There offline channels can provide free additional discounts or complimentary night stayetc.
 * One of the hotels in delhi is performing really great compared to others in Delhi.So we can do an analysis
