@@ -1,5 +1,7 @@
 ![hospitality-trends](https://github.com/PoojaShylaja/Hospitality_Domain/assets/101803358/285ed87e-41f2-452a-8b36-603f6ad35a3c)
- ### Domain:  Hospitality       ### Function: Revenue
+ ### Domain:  Hospitality       
+ ### Function: Revenue   
+ ### Dashboard: [live Dashboard](https://app.powerbi.com/groups/me/reports/4fe7efa4-c916-4857-9b96-262d09e0a9e2/ReportSection1a09235e4899ae61d323?experience=power-bi)
 
  ## AtliQ Grands
 
@@ -39,34 +41,34 @@ CSV files:
 It is the ratio of revenue to the total rooms booked/sold. 
 It is the measure of the average paid for rooms sold in a given time period
 
-Realisation % : It is nothing but the succesful "checked out" percentage over all bookings happened.
+**Realisation %** : It is nothing but the succesful "checked out" percentage over all bookings happened.
 
-RevPAR : Revenue Per Available Room
+**RevPAR** : Revenue Per Available Room
 RevPAR represents the revenue generated per available room, whether or not they are occupied. RevPAR
 helps hotels measure their revenue generating performance to accurately price rooms. RevPAR can help hotels 
 measure themselves against other properties or brands.
 
-DBRN : Daily Booked Room Nights
+**DBRN** : Daily Booked Room Nights
 This metrics tells on average how many rooms are booked for a day considering a time period
 
-DSRN  : Daily Sellable Room Nights
+**DSRN**  : Daily Sellable Room Nights
 This metrics tells on average how many rooms are ready to sell for a day considering a time period
 
-DURN : Daily Utilized Room Nights
+**DURN** : Daily Utilized Room Nights
 This metric tells on average how many rooms are succesfully utilized by customers for a day considering a time period
 
-Week-on-Week (WoW) is a type of business metric that measures changes in a specific variable over a period of 
+**Week-on-Week (WoW)** is a type of business metric that measures changes in a specific variable over a period of 
 one week compared to the previous week. It is a common way of tracking business performance over time and is 
 particularly useful for analyzing trends and identifying areas where improvements can be made.
 
 Here are the metrics for which, the WoW change% is created:
 
-1. Revenue WoW change %: To get the revenue change percentage week over week.
-2. Occupancy WoW change %: To get the occupancy change percentage week over week.
-3. ADR WoW change %: To get the ADR (Average Daily rate) change percentage week over week.
-4. RevPAR WoW change %: To get the RevPAR (Revenue Per Available Room) change percentage week over week.
-5. Realisation WoW change %: To get the Realisation change percentage week over week.
-6. DSRN WoW change %: To get the DSRN (Daily Sellable Room Nights) change percentage week over week.
+1.**Revenue WoW change %** : To get the revenue change percentage week over week.
+2. **Occupancy WoW change %** : To get the occupancy change percentage week over week.
+3. **ADR WoW change %** : To get the ADR (Average Daily rate) change percentage week over week.
+4. **RevPAR WoW change %** : To get the RevPAR (Revenue Per Available Room) change percentage week over week.
+5. **Realisation WoW change %** : To get the Realisation change percentage week over week.
+6. **DSRN WoW change %** : To get the DSRN (Daily Sellable Room Nights) change percentage week over week.
 
 ### Dashboard
 
@@ -74,10 +76,17 @@ Here are the metrics for which, the WoW change% is created:
 
 Dashboard consists of KPIS :Revenue,RevPAR,Avg Ratings,Occupancy,ADR,Realization.
 
-Charts :
+**Charts :**
 
-1. Donut chart for different categories and roomtypes using field parameters
+1. Donut chart for different categories and roomtypes using field parameters.
 2. Key Matrix by week no: Line and column chart has been used to show the changes over the week for RevPAR,ADR and occupancy %.
+3. Property by key matrix : Its shows a table with different matrix for the properties.
+4. Realisation % and ADR by Booking Platform : its shows the relation between realisation % (line) and ADR (columns).
+5. Daytype and corresponding RevPAR,Occupancy %,ADR,booking Platform.
+
+**Filters :** 
+
+Filters for city ,roomtype,month and week has beeen used.
 
 
  
