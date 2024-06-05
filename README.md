@@ -1,7 +1,5 @@
 ![hospitality-trends](https://github.com/PoojaShylaja/Hospitality_Domain/assets/101803358/285ed87e-41f2-452a-8b36-603f6ad35a3c)
- ### Domain:  Hospitality       
- ### Function: Revenue   
- ### Dashboard: [live Dashboard](https://app.powerbi.com/groups/me/reports/4fe7efa4-c916-4857-9b96-262d09e0a9e2/ReportSection1a09235e4899ae61d323?experience=power-bi)
+ ### Dashboard: [Live Dashboard](https://app.powerbi.com/groups/me/reports/4fe7efa4-c916-4857-9b96-262d09e0a9e2/ReportSection1a09235e4899ae61d323?experience=power-bi)
 
  ## AtliQ Grands
 
