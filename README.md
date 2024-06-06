@@ -1,5 +1,5 @@
 ![hospitality-trends](https://github.com/PoojaShylaja/Hospitality_Domain/assets/101803358/285ed87e-41f2-452a-8b36-603f6ad35a3c)
- ### Dashboard: [Live Dashboard](https://app.powerbi.com/groups/me/reports/4fe7efa4-c916-4857-9b96-262d09e0a9e2/ReportSection1a09235e4899ae61d323?experience=power-bi)
+ ### Dashboard: [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDk0OGMzNTgtZDlhNC00ZTdhLWE3ZTUtMzAwOTYzMTBjNDU5IiwidCI6IjM1MzQzZmE0LTZiZGYtNGFiYi04ZjJmLWM0MzA5YjFkN2ZjNSJ9)
 
  ## AtliQ Grands
 
